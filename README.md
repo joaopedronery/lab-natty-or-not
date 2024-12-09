@@ -13,5 +13,7 @@ Utilizei o "ChatGPT" para me sugerir ideias de temas para um e-book. Após defin
 ## 🚀 Resultados
 O e-book apresenta um conteúdo introdutório e em linguagem simples sobre o mindfulness, visando o público iniciante na prática. Para que o leitor tenha um guia do que seguir no início da sua jornada no mindfulness, é apresentado um cronograma do que deve ser feito a cada dia, nos 30 primeiros dias de prática.
 
+[LINK PARA O E-BOOK AQUI](https://github.com/joaopedronery/lab-natty-or-not/blob/main/ebook-mindfulness-30-dias.pdf)
+
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência enriquecedora sobre o potencial de criação das IAs generativas e como elas podem ser extremamente esclarecedores e aumentar a produtividade do usuário humano.
